@@ -27,3 +27,8 @@
     <finalName>mvnwebapp</finalName>
   </build>
 </project>
+</dependencies>
+  <build>
+    <finalName>mvnwebapp2</finalName>
+  </build>
+</project>
